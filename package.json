@@ -13,5 +13,6 @@
 	},
 	"author": "Eduardo Demuner",
 	"description": "A project that does something awesome",
-	"keywords": [ "freecodecamp", "backend", "node" ]
+	"keywords": [ "freecodecamp", "backend", "node" ],
+	"license": "MIT"
 }
